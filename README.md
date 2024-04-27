@@ -6,8 +6,8 @@
 ![LOGO IESTP](https://mir-s3-cdn-cf.behance.net/user/276/5d4ac7215398023.5d2383ac5ab5e.png)
 
 
-### Estudiante del isntituto misionesros mornfortianos,con el respaldo de Cisco Networking Academy
-### actualmente estoy espacializado en Redes y Seguridad Informática
+### Estudiante del instituto misionesros mornfortianos,con el respaldo de Cisco Networking Academy
+### actualmente estoy especializado en Redes y Seguridad Informática
 
 ![This is an alt text.](https://postgrado.ucsp.edu.pe/wp-content/uploads/2020/12/tipos-seguridad-redes.jpg)
 
